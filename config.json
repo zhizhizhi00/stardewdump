@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Animations": [
+    {
+      "Character": "Haley",
+      "Texture": "assets/haley.png",
+      "FrameWidth": 128,
+      "FrameHeight": 128,
+      "FrameCount": 26,
+      "FrameDurationMs": 200,
+      "Loop": true
+    }
+  ]
+}
